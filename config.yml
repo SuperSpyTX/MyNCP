@@ -421,6 +421,7 @@ compatibility:
     - TRAP_DOOR
     - PISTON_EXTENSION
     - PISTON_MOVING_PIECE
+    - FENCE_GATE
     allowinstantbreak: []
     overrideflags:
       snow: default
