@@ -18,7 +18,7 @@ miscellaneous:
   lag: true
 data:
   expiration:
-    active: false
+    active: true
     duration: 60
     history: false
   consistencychecks:
