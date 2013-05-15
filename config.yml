@@ -242,7 +242,7 @@ checks:
     fastheal:
       active: true
       interval: 4000
-      buffer: 1000
+      buffer: 1500
       actions: cancel vl>10 cancel log:fastheal:0:10:i vl>30 log:fastheal:0:10:if
     godmode:
       active: true
