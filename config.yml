@@ -291,7 +291,7 @@ checks:
       actions: cancel vl>50 log:fastclick:3:5:cif cancel
     instantbow:
       active: true
-      strict: true
+      strict: false
       delay: 130
       actions: cancel vl>15 log:instantbow:2:5:if cancel
     instanteat:
