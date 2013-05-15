@@ -12,7 +12,7 @@ logging:
 miscellaneous:
   allowclientmods: false
   opinconsoleonly: false
-  protectplugins: true
+  protectplugins: false
   managelisteners: false
   reporttometrics: true
   lag: true
