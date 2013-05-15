@@ -298,7 +298,7 @@ checks:
       active: true
       actions: log:instanteat:2:5:if cancel
     items:
-      active: true
+      active: false
   moving:
     creativefly:
       active: true
