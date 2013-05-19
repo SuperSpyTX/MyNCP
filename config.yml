@@ -99,7 +99,7 @@ checks:
     debug: false
   chat:
     color:
-      active: true
+      active: false
       actions: log:color:0:1:if cancel
     commands:
       active: true
